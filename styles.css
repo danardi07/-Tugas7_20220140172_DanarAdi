@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #100f0f;
+}
+
+
+h1 {
+  text-align: center;
+  color: #a9a7a7;
+}
+
+h2 {
+  text-align: center;
+  color: #a9a7a7;
+}
+
+h3 {
+  text-align: center;
+  color: #a9a7a7;
+}
+
+h2, h3 {
+  font-size: 25px;
+}
+
+
+video, audio {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 35%;
+}
+
